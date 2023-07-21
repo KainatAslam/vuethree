@@ -1,0 +1,32 @@
+{
+    "Details": [
+      {
+        "name": "cap",
+        "price": "$1099",
+        "brand": "adidas",
+        "InventoryStatus": false,
+        "id": 5
+      },
+      {
+        "name": "jacket",
+        "price": "$100",
+        "brand": "adidas",
+        "InventoryStatus": false,
+        "id": 6
+      },
+      {
+        "name": "sock",
+        "price": "$5",
+        "brand": "puma",
+        "InventoryStatus": true,
+        "id": 7
+      },
+      {
+        "name": "areeba",
+        "price": "$8888888888888899999999999999",
+        "brand": "areeba",
+        "InventoryStatus": false,
+        "id": 8
+      }
+    ]
+  }
